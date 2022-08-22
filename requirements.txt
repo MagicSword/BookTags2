@@ -1,2 +1,15 @@
-nose
+pytest
 sphinx
+flask
+flask-wtf
+werkzeug
+jinja2
+wtforms
+flask-sqlalchemy
+sqlalchemy
+greenlet
+alembic
+flask-migrate
+mako
+flask-login
+email-validator

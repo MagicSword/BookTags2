@@ -1,0 +1,13 @@
+{
+    // python formatter
+    "editor.defaultFormatter": null,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    // python linting
+    "python.linting.enabled": true, // 預設值即為 true
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=100",
+        "--ignore=E402,F841,F401,E302,E305,W503"
+    ],
+}

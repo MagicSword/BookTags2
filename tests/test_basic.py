@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from .context import booktags2
+from .context import src
 
 import unittest
 
