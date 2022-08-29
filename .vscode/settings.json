@@ -10,4 +10,9 @@
         "--max-line-length=100",
         "--ignore=E402,F841,F401,E302,E305,W503"
     ],
+    //"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    //"terminal.integrated.shellArgs.windows": ["/K","D:\\Librarys\\Anaconda3\\Scripts\\activate.bat D:\\Librarys\\Anaconda3"],
+    "python.condaPath": "D:\\Librarys\\Anaconda3\\Scripts\\conda.exe",
+    "python.defaultInterpreterPath": "D:\\Librarys\\Anaconda3\\envs\\BookTags2\\python.exe",
+    "python.terminal.activateEnvironment": true,
 }
